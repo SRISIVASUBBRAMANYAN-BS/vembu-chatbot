@@ -1,0 +1,21 @@
+id,name,symptom,description,specialty
+1,Fever,High temperature,Elevated body temperature above 98.6°F (37°C),General Physician
+2,Headache,Head pain,Pain in the head or upper neck,General Physician
+3,Cough,Persistent coughing,Sudden expulsion of air from the lungs,General Physician
+4,Fatigue,Tiredness,Feeling of tiredness or lack of energy,General Physician
+5,Nausea,Feeling sick,Feeling of sickness with an inclination to vomit,General Physician
+6,Sore throat,Throat pain,Pain or irritation in the throat when swallowing,Ear-Nose-Throat (ENT) Specialist
+7,Runny nose,Nasal discharge,Excess discharge of mucus from the nose,Ear-Nose-Throat (ENT) Specialist
+8,Body aches,Muscle pain,General discomfort or pain in muscles throughout the body,General Physician
+9,Shortness of breath,Difficulty breathing,Feeling of not getting enough air or difficulty breathing,General Physician
+10,Dizziness,Lightheadedness,Feeling faint woozy or unsteady,Ear-Nose-Throat (ENT) Specialist
+11,Chills,Feeling cold,Feeling of coldness accompanied by shivering,General Physician
+12,Loss of taste or smell,Altered senses,Inability to taste food or smell odors normally,Ear-Nose-Throat (ENT) Specialist
+13,Skin rash,Skin irritation,Visible changes in skin color or texture,Dermatologist
+14,Diarrhea,Loose stools,Frequent loose or watery bowel movements,General Physician
+15,Chest pain,Chest discomfort,Discomfort or pain in the chest area,General Physician
+16,Joint pain,Arthralgia,Pain in one or more joints,Ayurveda
+17,Acne,Pimples,Skin condition characterized by red pimples on the skin,Dermatologist
+18,Hair loss,Alopecia,Thinning or loss of hair from the scalp or body,Dermatologist
+19,Indigestion,Dyspepsia,Discomfort or pain in the upper abdomen,Ayurveda
+20,Insomnia,Sleeplessness,Difficulty falling asleep or staying asleep,Ayurveda
